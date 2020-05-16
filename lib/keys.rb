@@ -17,7 +17,7 @@ def get_the_keys(groceries)
   grains: ["rice", "pasta"]
 }
 
-groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
+# groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
 groceries.keys
   
   
