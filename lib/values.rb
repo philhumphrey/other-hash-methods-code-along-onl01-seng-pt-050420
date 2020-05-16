@@ -9,8 +9,8 @@ require 'pry'
 # }
 
 def get_the_values(groceries)
-  #code your solution here!
-  groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
+  # #code your solution here!
+  # groceries = {fruit: "Banana", vegetable: "Broccoli", dessert: "Cookie"}
  
 groceries.values.flatten
   
